@@ -137,7 +137,7 @@ var gCtx = null,
     v = null,
     hname = window.location.hostname;
 if ('laksa19.github.io' !== hname) {
-    document.write("<center id='powered' style='display:block'><a  style='color:#fff; text-decoration:none; text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;  display:block' href='#'>Scan Voucher Wifi</a></center>");
+    document.write("<center id='powered' style='display:block'><a  style='color:#fff; text-decoration:none; text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;  display:block' href='#'>Scan Voucher Wifi HOTSPOT</a></center>");
     var so = document.getElementById('powered');
 
     function Id(_0x99fcf5) {
